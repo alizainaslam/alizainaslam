@@ -17,10 +17,10 @@ Currently, **I'm open to work and employment opportunities**. 🇮🇹
 
 - 🔭 I’m currently working on an open source coding challange [Unix Command Line Tool](https://codingchallenges.fyi/challenges/challenge-cat/).
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation).
+- :busts_in_silhouette: I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about TypeScript, JavaScript, JEST (Unit Testing) and Accessing Data from REST APIs.
 - 😄 Pronouns: He and code lover.
-- ⚡ Fun fact: I love to think about problem, Cook and walk.
+- ⚡ Fun fact: I love to think about problem, cook and walk.
 - :wrench: Tool for code: Visual Studio Code.
 
 ## Completed Projects
