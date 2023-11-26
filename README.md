@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!--
-**alizainaslam/alizainaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=Typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rest Api](https://img.shields.io/badge/RestApi-%23008C99?style=flat-square&logo=amazonapigateway&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=Jest&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white)
+![Vs code](https://img.shields.io/badge/Vs%20code-%232F80ED?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-Here are some ideas to get you started:
+I am a self thought Front-End Developer with a huge love for TypeScript, JavaScript, HTML5, CSS3, GSAP, JEST (Testing Freamwork) and REST API.
+Currently, **I'm open to work and employment opportunities**. 🇮🇹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an open source coding challange [Unix Command Line Tool](https://codingchallenges.fyi/challenges/challenge-cat/).
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation).
+- 💬 Ask me about TypeScript, JavaScript, JEST (Unit Testing) and Accessing Data from REST APIs.
+- 😄 Pronouns: He and code lover.
+- ⚡ Fun fact: I love to think about problem, Cook and walk.
+- :wrench: Tool for code: Visual Studio Code.
+
+## Completed Projects
+- Random Quotes - (Rest api). [Repository](https://github.com/alizainaslam/Random-Quotes).
+- TaskFlow - (Todo list). [Repository](https://github.com/alizainaslam/TaskFlow).
+- JavaScript Arrays - (Data structure). [Repository](https://github.com/alizainaslam/JavaScript-arrays).
+
+
+### Where to find me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizainaslam/) 
