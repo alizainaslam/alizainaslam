@@ -15,14 +15,12 @@
 I am a self thought Front-End Developer with a huge love for TypeScript, JavaScript, HTML5, CSS3, GSAP, JEST (Testing Freamwork) and REST API.
 Currently, **I'm open to work and employment opportunities**. 🇮🇹
 
-- 🔭 I’m currently working on custom date picker (DOM).
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🔭 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - :busts_in_silhouette: I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about TypeScript, JavaScript, JEST (Unit Testing) and Accessing Data from REST APIs.
 
 ## Completed Projects
 - Coding Challenge - (CLI tool). [Repository](https://github.com/alizainaslam/Cat-tool).
-- Fix Bug in winner Function - (Tic-tac-toe). [Repository](https://github.com/alizainaslam/tic-tac-toe)
 - Random Quotes - (Rest api). [Repository](https://github.com/alizainaslam/Random-Quotes).
 - TaskFlow - (Todo list). [Repository](https://github.com/alizainaslam/TaskFlow).
 - JavaScript Arrays - (DOM). [Repository](https://github.com/alizainaslam/JavaScript-arrays).
