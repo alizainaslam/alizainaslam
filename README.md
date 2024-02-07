@@ -8,16 +8,16 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=Jest&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=notion&logoColor=white)
 ![Vs code](https://img.shields.io/badge/Vs%20code-%232F80ED?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-I am a self thought Front-End Developer with a huge love for TypeScript, JavaScript, HTML5, CSS3, GSAP, JEST (Testing Freamwork) and REST API.
+I am a self thought Front-End Developer with a huge love for TypeScript, JavaScript, HTML5, CSS3, GSAP and REST APIs.
 Currently, **I'm open to work and employment opportunities**. 🇮🇹
 
 - 🔭 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 📖 Enrolled In [Full Stack Development](https://fullstackopen.com/en/).
 - :busts_in_silhouette: I’m currently open for work and employment opportunities (remote and relocation).
-- 💬 Ask me about TypeScript, JavaScript, JEST (Unit Testing) and Accessing Data from REST APIs.
+- 💬 Ask me about TypeScript and JavaScript.
 
 ## Completed Projects
 - Coding Challenge - (CLI tool). [Repository](https://github.com/alizainaslam/Cat-tool).
@@ -25,6 +25,8 @@ Currently, **I'm open to work and employment opportunities**. 🇮🇹
 - TaskFlow - (Todo list). [Repository](https://github.com/alizainaslam/TaskFlow).
 - JavaScript Arrays - (DOM). [Repository](https://github.com/alizainaslam/JavaScript-arrays).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizainaslam)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alizainaslam&show_icons=true)
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizainaslam/) 
