@@ -20,10 +20,10 @@ Currently, **I'm open to work and employment opportunities**. 🇮🇹
 - 💬 Ask me about TypeScript and JavaScript.
 
 ## Completed Projects
-- Coding Challenge - (CLI tool). [Repository](https://github.com/alizainaslam/Cat-tool).
-- Random Quotes - (Rest api). [Repository](https://github.com/alizainaslam/Random-Quotes).
-- TaskFlow - (Todo list). [Repository](https://github.com/alizainaslam/TaskFlow).
-- JavaScript Arrays - (DOM). [Repository](https://github.com/alizainaslam/JavaScript-arrays).
+- Coding Challenge - (CLI tool). [Repo](https://github.com/alizainaslam/Cat-tool).
+- Random Quotes - (Rest api). [Repo](https://github.com/alizainaslam/Random-Quotes).
+- TaskFlow - (Todo list). [Repo](https://github.com/alizainaslam/TaskFlow).
+- JavaScript Arrays - (DOM). [Repo](https://github.com/alizainaslam/JavaScript-arrays).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizainaslam)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alizainaslam&show_icons=true)
