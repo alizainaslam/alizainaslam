@@ -16,7 +16,7 @@ Currently, **I'm open to work and employment opportunities**. 🇮🇹
 
 - 🔭 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 📖 Enrolled In [Full Stack Development](https://fullstackopen.com/en/).
-- :busts_in_silhouette: I’m currently open for work and employment opportunities (remote and relocation).
+- :busts_in_silhouette: I’m currently open for work and employment opportunities (remote / On-Site).
 - 💬 Ask me about TypeScript and JavaScript.
 
 ## Completed Projects
