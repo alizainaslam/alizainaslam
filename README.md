@@ -19,7 +19,7 @@ Currently, **I'm open to work and employment opportunities**. 🇮🇹
 - :busts_in_silhouette: I’m currently open for work and employment opportunities (remote / On-Site).
 - 💬 Ask me about TypeScript and JavaScript.
 
-## Completed Projects
+### Completed Projects
 - Coding Challenge - (CLI tool). [Repo](https://github.com/alizainaslam/Cat-tool).
 - Random Quotes - (Rest api). [Repo](https://github.com/alizainaslam/Random-Quotes).
 - TaskFlow - (Todo list). [Repo](https://github.com/alizainaslam/TaskFlow).
