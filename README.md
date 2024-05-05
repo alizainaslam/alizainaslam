@@ -25,7 +25,11 @@ My big dream to become a full-stack developer, mastering both front-end and back
 - Random Quotes - (Rest api). [Repo](https://github.com/alizainaslam/Random-Quotes).
 - TaskFlow - (Todo list). [Repo](https://github.com/alizainaslam/TaskFlow).
 - JavaScript Arrays - (DOM). [Repo](https://github.com/alizainaslam/JavaScript-arrays).
-
+- Stactic landing page - (Responsive). [Repo](https://github.com/alizainaslam/Portfolio-template).
+- Custom Date Picker - (DOM). [Repo](https://github.com/alizainaslam/Custom-date-picker).
+# React
+- Apple Vision Pro Clone - (Landing Page Clone). [Repo](https://github.com/alizainaslam/Apple-Vision-Pro).
+- 
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alizainaslam&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alizainaslam&theme=light&hide_border=false)
