@@ -17,7 +17,7 @@ My big dream to become a full-stack developer, mastering both front-end and back
 
 - 🔭 I’m currently learning many things including React, I believe that everyday is a learning opportunity.
 - 📖 Enrolled In [Full Stack Development](https://fullstackopen.com/en/).
-- :busts_in_silhouette: I’m currently open for work and employment opportunities (remote / On-Site).
+- :busts_in_silhouette: I’m currently open for work and employment opportunities (remote / on-site).
 - 💬 Ask me about TypeScript and JavaScript.
 
 ## Completed Projects:
@@ -27,8 +27,9 @@ My big dream to become a full-stack developer, mastering both front-end and back
 - JavaScript Arrays - (DOM). [Repo](https://github.com/alizainaslam/JavaScript-arrays).
 - Stactic landing page - (Responsive). [Repo](https://github.com/alizainaslam/Portfolio-template).
 - Custom Date Picker - (DOM). [Repo](https://github.com/alizainaslam/Custom-date-picker).
-# React
+# React-Js
 - Apple Vision Pro Clone - (Landing Page Clone). [Repo](https://github.com/alizainaslam/Apple-Vision-Pro).
+- Find country's detail - (Search Query in REACT-Js). [Live](https://findcountry-detail.netlify.app/) / [Code](https://github.com/alizainaslam/Full-stack-open/tree/master/part2/Data-for-countries).
   
 ## GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alizainaslam&show_icons=true)
