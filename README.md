@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hi there! I'm Ali Zain Aslam – Frontend Developer & UI Designer.
+
+### Technologies & Tools  
+Here are some of the tools and technologies I use in my projects:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -12,10 +15,13 @@
 ![GitHub](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github&logoColor=white)
 
 
-Hey there! I am an FE web developer / UI designer. I started my journey by watching YouTube tutorials, Googling everything to improve my skill. 🇮🇹
+I’m a Frontend Developer & UI Designer, specializing in creating responsive and user-friendly web applications. I’m self-taught and have a deep love for problem-solving through code. With hands-on experience in web development, I continuously strive to improve and build impactful web solutions.
 
-- :busts_in_silhouette: I’m currently open for work / intern opportunities (remote / freelance).
-- 💬 Ask me about JavaScript / FE Web development.
+🌍 I’m currently open to new opportunities (remote or freelance) where I can contribute my skills to exciting frontend development projects. Feel free to reach out if you'd like to collaborate!
+
+---
+
+### Projects
 
 ## Vanilla JS:
 - Coding Challenge - [Repo](https://github.com/alizainaslam/Cat-tool).
@@ -29,5 +35,11 @@ Hey there! I am an FE web developer / UI designer. I started my journey by watch
 - Apple Vision Pro Clone - (Landing Page Clone). [Repo](https://github.com/alizainaslam/Apple-Vision-Pro).
 - Find country's detail - (Search Query in REACT-Js). [Live](https://findcountry-detail.netlify.app/) / [Code](https://github.com/alizainaslam/Full-stack-open/tree/master/part2/Data-for-countries).
 
-## Where to find me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizainaslam/) 
+---
+
+### Let's Connect
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/alizainaslam/)  to discuss projects, collaborations, or opportunities.
+
+Thanks for visiting my profile! Feel free to check out my repositories or get in touch.
+
+
