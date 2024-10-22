@@ -25,6 +25,7 @@ I’m currently open to new opportunities (remote or freelance) where I can cont
 
 ## Vanilla JS:
 - Coding Challenge - [repository](https://github.com/alizainaslam/Cat-tool).
+- Ai assistant chatbot - [repository](https://github.com/alizainaslam/ai-chatbot).
 - Random Quotes - [repository](https://github.com/alizainaslam/Random-Quotes).
 - TaskFlow - [repository](https://github.com/alizainaslam/TaskFlow).
 - JavaScript Arrays - [repository](https://github.com/alizainaslam/JavaScript-arrays).
