@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ali Zain Aslam – Frontend Developer & UI Designer.
+# 👋 Hi there! I'm Ali Zain Aslam – Web Developer & UI Designer.
 
 ### Technologies & Tools  
 Here are some of the tools and technologies I use in my projects:
@@ -15,28 +15,10 @@ Here are some of the tools and technologies I use in my projects:
 ![GitHub](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github&logoColor=white)
 
 
-I’m a Frontend Developer & UI Designer, specializing in creating responsive and user-friendly web applications. I’m self-taught and have a deep love for problem-solving through code. With hands-on experience in web development, I continuously strive to improve and build impactful web solutions.
+I specializing in creating responsive and user-friendly web applications. I’m self-taught and have love for problem-solving through code. With hands-on experience in web development, I continuously strive to improve and build impactful web solutions.
 
 I’m currently open to new opportunities (remote or freelance) where I can contribute my skills to exciting frontend development projects. Feel free to reach out if you'd like to collaborate!
 
----
-
-### Projects
-
-## Vanilla JS:
-- Coding Challenge - [repository](https://github.com/alizainaslam/Cat-tool).
-- Ai assistant chatbot - [repository](https://github.com/alizainaslam/ai-chatbot).
-- Random Quotes - [repository](https://github.com/alizainaslam/Random-Quotes).
-- TaskFlow - [repository](https://github.com/alizainaslam/TaskFlow).
-- JavaScript Arrays - [repository](https://github.com/alizainaslam/JavaScript-arrays).
-- Stactic landing page - [repository](https://github.com/alizainaslam/Portfolio-template).
-- Custom Date Picker - [repository](https://github.com/alizainaslam/Custom-date-picker).
-- Responsive navbar - [repository](https://github.com/alizainaslam/business-portfolio).
-## React-Js
-- Apple Vision Pro Clone - (Landing Page Clone). [repository](https://github.com/alizainaslam/Apple-Vision-Pro).
-- Find country's detail - (Search Query in REACT-Js). [live](https://findcountry-detail.netlify.app/) / [repository](https://github.com/alizainaslam/Full-stack-open/tree/master/part2/Data-for-countries).
-## Vue-Js
-- Chatbot-ui - [repository](https://github.com/alizainaslam/chatbot-ui).
 ---
 
 ### Let's Connect
