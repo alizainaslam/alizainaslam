@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ali Zain Aslam – Web Developer & UI Designer.
+# 👋 Hi there! I'm Ali Zain Aslam – Web Developer.
 
 ### Technologies & Tools  
 Here are some of the tools and technologies I use in my projects:
@@ -15,7 +15,7 @@ Here are some of the tools and technologies I use in my projects:
 ![GitHub](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=Github&logoColor=white)
 
 
-I specializing in creating responsive and user-friendly web applications. I’m self-taught and have love for problem-solving through code. With hands-on experience in web development, I continuously strive to improve and build impactful web solutions.
+I specializing in creating responsive and user-friendly web applications. I love problem-solving through code. With hands-on experience in web development, I continuously strive to improve and build impactful web solutions.
 
 I’m currently open to new opportunities (remote or freelance) where I can contribute my skills to exciting frontend development projects. Feel free to reach out if you'd like to collaborate!
 
