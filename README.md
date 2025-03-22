@@ -8,7 +8,6 @@ Here are some of the tools and technologies I use in my projects:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat-square&logo=React&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-%234FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-%23404C5C?style=flat-square&logo=Express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=Git&logoColor=white)
